@@ -72987,5 +72987,12 @@
     "author": "Victoria",
     "description": "Analyze vault structure, find orphan notes and broken references, and track structural health. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "byikiexe/vestigia"
+  },
+  {
+    "id": "editor-polish",
+    "name": "Editor Polish",
+    "author": "zhuangh7",
+    "description": "Adjustable editor width with drag-to-resize table columns and UI polish.",
+    "repo": "zhuangh7/obsidian-editor-polish"
   }
 ]
